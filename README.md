@@ -1,10 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Hello,%20Stranger!)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&fontColor=666666&text=Hello,%20Stranger!)
 
 # 👋 함께 성장하는 SpringBoot Back-End개발자 한지호입니다!
-
-- 개발의 세계는 마치 무한하게 피어나는 꽃밭 같습니다. 꽃은 새로운 기술과 아이디어를 상징하며, 저는 불꽃처럼 빛나는 열정으로 수많은 꽃들을 아름답게 키워나가고자 합니다.
-- 그 꽃들을 통해 얻은 경험과 지식은 저를 한층 더 성장시키고, 이러한 열정, 경험, 지식을 동료들과 공유하며 함께 더 큰 불꽃을 만들어 나가고자 합니다.
--  매일 새로운 기술의 꽃을 피워나가며, 끊임없는 공동의 성장을 추구합니다.
+- 개발의 세계는 마치 무한하게 피어나는 꽃밭 같습니다. 꽃은 새로운 기술과 아이디어를 상징하며, 저는 불꽃처럼 뜨거운 열정으로 수많은 꽃들을 아름답게 키워나가고자 합니다.
+- 새로운 지식은 저를 한층 더 성장시키고, 이러한 지식을 동료들과 공유하며 함께 더 큰 불꽃을 만들어 나가고자 합니다.
+- 매일 새로운 기술의 꽃을 피워나가며, 끊임없는 공동의 성장을 추구합니다.
 
 ---
 
@@ -18,7 +17,6 @@
 - ![Java](https://img.shields.io/badge/Java-red?style=flat&logo=java)
 - ![Spring](https://img.shields.io/badge/Spring-green?style=flat&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-green?style=flat&logo=spring-boot&logoColor=white)
 - ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-darkgreen?style=flat&logo=thymeleaf)
-- ![Servlet](https://img.shields.io/badge/Servlet-blue?style=flat) ![JSP](https://img.shields.io/badge/JSP-orange?style=flat)
 - ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven)
 
 ## 🎨 **Front-End**
@@ -30,7 +28,6 @@
 - ![Oracle](https://img.shields.io/badge/Oracle-red?style=flat&logo=oracle)
 - ![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql&logoColor=black)
 - ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github)
-- ![Eclipse](https://img.shields.io/badge/Eclipse-blue?style=flat&logo=eclipse) ![VS Code](https://img.shields.io/badge/VS_Code-blue?style=flat&logo=visual-studio-code)
 
 <!---
 jiho313/jiho313 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
