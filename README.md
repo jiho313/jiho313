@@ -18,10 +18,11 @@
 - ![Spring](https://img.shields.io/badge/Spring-green?style=flat&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-green?style=flat&logo=spring-boot&logoColor=white)
 - ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-darkgreen?style=flat&logo=thymeleaf)
 - ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven)
+- ![Gradle](https://img.shields.io/badge/Gradle-blue?style=flat&logo=Gradle)
 
 ## 🎨 **Front-End**
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=black)
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ## 🌍 **Infra & Tools**
