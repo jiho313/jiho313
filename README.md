@@ -29,6 +29,7 @@
 - ![Oracle](https://img.shields.io/badge/Oracle-red?style=flat&logo=oracle)
 - ![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql&logoColor=black)
 - ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github)
+- ![IntelliJ](https://img.shields.io/badge/IntelliJ-100000?style=flat&logo=intellijidea)
 
 <!---
 jiho313/jiho313 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
