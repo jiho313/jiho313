@@ -31,7 +31,6 @@
 - ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github)
 - ![IntelliJ](https://img.shields.io/badge/IntelliJ-100000?style=flat&logo=intellijidea)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiho313&show_icons=true&theme=buefy)
 <!---
 jiho313/jiho313 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
