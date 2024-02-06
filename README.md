@@ -16,8 +16,8 @@
 ## 🖥 **Back-End**
 - ![Java](https://img.shields.io/badge/Java-3766AB?-red?style=flat&logo=java)
 - ![Spring](https://img.shields.io/badge/Spring-green?style=flat&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-green?style=flat&logo=spring-boot&logoColor=white)
+- ![Spring Data JPA](https://img.shields.io/badge/JPA(SpringDataJPA)-DC382D?style=flat)
 - ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-darkgreen?style=flat&logo=thymeleaf)
-- ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven)
 - ![Gradle](https://img.shields.io/badge/Gradle-blue?style=flat&logo=Gradle)
 
 ## 🎨 **Front-End**
@@ -28,6 +28,7 @@
 ## 🌍 **Infra & Tools**
 - ![Oracle](https://img.shields.io/badge/Oracle-red?style=flat&logo=oracle)
 - ![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql&logoColor=black)
+- ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github)
 - ![IntelliJ](https://img.shields.io/badge/IntelliJ-100000?style=flat&logo=intellijidea)
 
